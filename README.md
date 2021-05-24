@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vanhsai
+- 👋 Hi, I’m Vanhsai
 - 👀 I am a junoir data analyst
 - 🌱 I’m currently a third year student at Budapest Business School
 - 💼 I’m looking for an internship
